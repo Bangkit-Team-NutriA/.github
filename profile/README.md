@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="350" src="images/nutria.png">
+  <img width="300" height="350" src="/profile/images/nutria.png">
 </p>
 
 # Bangkit 2022 C22-PS014 Product Capstone
