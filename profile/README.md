@@ -8,8 +8,8 @@
 <br>
 our project name is nutri-A with tagline "cek nutrisi hanya seujung jari", in this application we have 3 main features which are:
 - food image classification and give nutrient information which are fat, protein, carbo and also energy/calories (in this feature we use deep learning).
-- second feature, meal recommendation , so we scrape data from [panganku.org](panganku.org) and we search an optimum combination of meal for nutrient that user need (we use genetic algorithm).
-- the last one, recipe recommendation, we scrape data from [fatsecret.co.id](fatsecret.co.id) and recommend recipe based on ingredients that user input and give nutrient information as well (we use closest distance).
+- second feature, meal recommendation , so we scrape data from [panganku.org](https://www.panganku.org) and we search an optimum combination of meal for nutrient that user need (we use genetic algorithm).
+- the last one, recipe recommendation, we scrape data from [fatsecret.co.id](https://www.fatsecret.co.id) and recommend recipe based on ingredients that user input and give nutrient information as well (we use closest distance).
 
 
 <br>
