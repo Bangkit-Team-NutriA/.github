@@ -23,3 +23,18 @@ our project name is nutri-A with tagline "cek nutrisi hanya seujung jari", in th
 | Yanuar Andi Rahman | A2284F2442 | Mobile Development |
 | Fauzan Nursalma Mawardi | A2291F2466 | Mobile Development |
 | Chaira Qalbyassalam | C2004G0347 | Cloud Computing |
+
+## here is our documentation and step to replicate our steP :
+1. Determine the flow of applications and the MVP feature
+2. Find dataset 
+3. Train the dataset using transfer learning and doing hyperparameter tuning like epochs number, do augmentation and fine tuning as well
+4. Analysis the model that give the best performance
+5. Convert to TFJS
+6. Create an API
+7. Create Cloud SQL : 1 Instance
+8. Create Virtual Machine using Google Compute Engine : 2 Instances
+9. Create Load Balancer
+10. Create layout in android
+11. Create Retrofit to connect to API
+12. Continuously upgrade
+ 
